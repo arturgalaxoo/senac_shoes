@@ -5,3 +5,11 @@
 3. Abrir a tela do terminal do VScode (CTRL + J)
 4. git init -> Cria o repertório local do projeto na pasta aonde ele está armazenado.
 5. Informar as credenciais do git, isso é realizadp uma unica vez no computador.
+- git config --global user.name "Seu Nome"
+- git config --global user.email "seu_email@example.com"
+6. git status -> Verifique quais arquivos/pastas foram enviadas para o repositório local.
+7. git add . -> Inclui todos os arquivos/pastas no repositório local
+8. git branch -M main -> Altera o nome da branch atual para main.
+9. git commit -m "A informação fica aqui" -> Realiza um novo commit no repositório local.
+10. git remote add origin endereco_do_repositorio_remote -> Comando para realizar a sincronização do repositório local com o remoto.
+11. git push -u origin main -> Envia o repositório local para o remoto. 
