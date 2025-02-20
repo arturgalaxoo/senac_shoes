@@ -38,6 +38,11 @@ elementos de uma sequência.
 2. WHILE
 => Será utilizado quando você não sabe ao certo quantas vezes a repetição irá acontecer. Será executado enquanto a condição for verdadeira.
 
+# AULA 06
+## COMANDOS DE DESVIO
+1. continue -> continuar, se uma condição for favorável ela será desconsiderada.
+2. break -> quebra, quando utilizado irá finalizar o loop mais próximo.
+
 
 
 
