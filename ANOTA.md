@@ -43,6 +43,10 @@ elementos de uma sequência.
 1. continue -> continuar, se uma condição for favorável ela será desconsiderada.
 2. break -> quebra, quando utilizado irá finalizar o loop mais próximo.
 
+## FUNÇÕES
+=> é um blco de código que é reutilizável. Serve para deixar o código mais organizado e eficiente.
+Executam uma  `tarefa específica. `
+
 
 
 
